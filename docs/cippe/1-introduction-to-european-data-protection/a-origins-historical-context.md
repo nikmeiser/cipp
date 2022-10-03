@@ -1,7 +1,7 @@
 ---
 layout: default
-parent: "I. Introduction to European Data Protection"
-title: "A. Origins and Historical Context of Data Protection Law"
+parent: I. Introduction to European Data Protection
+title: A. Origins and Historical Context of Data Protection Law
 nav_order: 1
 ---
 
