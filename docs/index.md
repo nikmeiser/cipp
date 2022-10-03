@@ -29,4 +29,3 @@ These notes were made by [me](https://github.com/nikmeiser) starting in October 
 
 ## Useful resources
  - [CIPP subreddit](https://www.reddit.com/r/cipp/)
- - 
