@@ -1,3 +1,5 @@
+$nav-width: 100% !default;
+
 .side-bar {
   z-index: 0;
   display: flex;
@@ -11,11 +13,11 @@
     height: 100%;
     flex-direction: column;
     border-right: $border $border-color;
-    align-items: flex-end;
+    align-items: flex-start;
   }
 
   @include mq(lg) {
-    width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
+    width: calc((100% - #{$nav-width + $content-width}) / 2);
     min-width: $nav-width;
   }
 }
