@@ -25,18 +25,19 @@ nav_order: 1
 * Adopted on 10 December, 1948
 #### Article 12
 >> No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.
-- Protection from arbitrary interference with privacy, family, home, correspondence
-- Protection from attacks on honour and reputation
+* Protection from arbitrary interference with privacy, family, home, correspondence
+* Protection from attacks on honour and reputation
 #### Article 19
 >> Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.
-- Right to freedom of opinion and expression without interference
-- Right to seek, impart, receive ideas through any media and regardless of frontiers
-### Article 29 Resolves apparent contradiction between Art. 12 and Art. 19 by applying limits to individual rights and freedoms
+* Right to freedom of opinion and expression without interference
+* Right to seek, impart, receive ideas through any media and regardless of frontiers
+#### Article 29 
 >> 1. Everyone has duties to the community in which alone the free and full development of his personality is possible.
 >> 2. In the exercise of his rights and freedoms, everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and freedoms of others and of meeting the just requirements of morality, public order and the general welfare in a democratic society.
 >> These rights and freedoms may in no case be exercised contrary to the purposes and principles of the United Nations.
-- Out of recognition and respect for the rights of others
-- To meet the just requirements for morality, public order and general welfare in a democratic society  
+* Resolves apparent contradiction between Art. 12 and Art. 19 by applying limits to individual rights and freedoms
+* Out of recognition and respect for the rights of others
+* To meet the just requirements for morality, public order and general welfare in a democratic society  
 
 ### 1.2.2 European Convention on Human Rights
 * Promulgated in Rome in 1950 by the Council of Europe
