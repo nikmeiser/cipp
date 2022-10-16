@@ -23,15 +23,20 @@ nav_order: 1
 ## 1.2 Human rights law
 ### 1.2.1 Universal Declaration of Human Rights
 * Adopted on 10 December, 1948
-* Article 12
-	- Protection from arbitrary interference with privacy, family, home, correspondence
-	- Protection from attacks on honour and reputation
-* Article 19
-	- Right to freedom of opinion and expression without interference
-	- Right to seek, impart, receive ideas through any media and regardless of frontiers
-* Article 29 Resolves apparent contradiction between Art. 12 and Art. 19 by applying limits to individual rights and freedoms
-	- Out of recognition and respect for the rights of others
-	- To meet the just requirements for morality, public order and general welfare in a democratic society  
+### Article 12
+>> No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.
+- Protection from arbitrary interference with privacy, family, home, correspondence
+- Protection from attacks on honour and reputation
+### Article 19
+>> Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.
+- Right to freedom of opinion and expression without interference
+- Right to seek, impart, receive ideas through any media and regardless of frontiers
+### Article 29 Resolves apparent contradiction between Art. 12 and Art. 19 by applying limits to individual rights and freedoms
+>> 1. Everyone has duties to the community in which alone the free and full development of his personality is possible.
+>> 2. In the exercise of his rights and freedoms, everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and freedoms of others and of meeting the just requirements of morality, public order and the general welfare in a democratic society.
+>> These rights and freedoms may in no case be exercised contrary to the purposes and principles of the United Nations.
+- Out of recognition and respect for the rights of others
+- To meet the just requirements for morality, public order and general welfare in a democratic society  
 
 ### 1.2.2 European Convention on Human Rights
 * Promulgated in Rome in 1950 by the Council of Europe
@@ -54,6 +59,16 @@ nav_order: 1
 	- Right to effective remedy
 	- Prohibition of discrimination
 * Enforced by the European Court of Human Rights
+### Article 8
+>> 1. Everyone has the right to respect for his private and family
+life, his home and his correspondence.
+>> 2. There shall be no interference by a public authority with the
+exercise of this right except such as is in accordance with the
+law and is necessary in a democratic society in the interests of
+national security, public safety or the economic well-being of the
+country, for the prevention of disorder or crime, for the protection
+of health or morals, or for the protection of the rights and freedoms
+of others.
 ## 1.3 Early laws and regulation
 ## 1.4 The need for a harmonised European approach
 ## 1.5 The Treaty of Lisbon
