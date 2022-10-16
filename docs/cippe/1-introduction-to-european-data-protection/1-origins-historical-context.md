@@ -70,6 +70,7 @@ national security, public safety or the economic well-being of the
 country, for the prevention of disorder or crime, for the protection
 of health or morals, or for the protection of the rights and freedoms
 of others.
+
 ## 1.3 Early laws and regulation
 ## 1.4 The need for a harmonised European approach
 ## 1.5 The Treaty of Lisbon
