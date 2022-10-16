@@ -2,7 +2,7 @@
 layout: default
 grand_parent: CIPP/E
 parent: I. Introduction to European Data Protection
-title: A. Origins and Historical Context of Data Protection Law
+title: 1. Origins and Historical Context of Data Protection Law
 nav_order: 1
 ---
 
