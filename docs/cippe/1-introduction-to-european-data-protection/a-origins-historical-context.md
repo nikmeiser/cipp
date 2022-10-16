@@ -46,7 +46,7 @@ nav_order: 1
 	- Right to liberty and security
 	- Right to a fair trial
 	- No punishment without law
-	- Respect for private and family life
+	- <mark>Respect for private and family life</mark>
 	- Freedom of thought, conscience and religion
 	- Freedom of expression
 	- Freedom of assembly and association
