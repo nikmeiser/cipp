@@ -18,7 +18,7 @@ nav_order: 1
 
 ## Supranational European Bodies
 [![Supranational European Bodies](https://upload.wikimedia.org/wikipedia/commons/6/6a/Supranational_European_Bodies.svg)](https://en.wikipedia.org/wiki/Template:Supranational_European_Bodies "Supranational European Bodies")
-Note: Clicking on the link will take you to Wikipedia, where you are bound by the [Wikimedia privacy policy](https://foundation.wikimedia.org/wiki/Privacy_policy)
+Note: Clicking on this image will take you to Wikipedia, where you are bound by the [Wikimedia privacy policy](https://foundation.wikimedia.org/wiki/Privacy_policy)
 
 ## 1.1 Rationale for data protection
 - Increasing use of computers in the early 1970s
@@ -49,7 +49,7 @@ Note: Clicking on the link will take you to Wikipedia, where you are bound by th
 - Out of recognition and respect for the rights of others
 - To meet the just requirements for morality, public order and general welfare in a democratic society  
 
-#### Additional Reading
+#### Further Reading
 - [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
 ### 1.2.2 European Convention on Human Rights
