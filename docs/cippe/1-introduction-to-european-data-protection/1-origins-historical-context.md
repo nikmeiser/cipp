@@ -50,7 +50,7 @@ Note: Clicking on the link will take you to Wikipedia, where you are bound by th
 - To meet the just requirements for morality, public order and general welfare in a democratic society  
 
 #### Additional Reading
-[Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
+- [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
 ### 1.2.2 European Convention on Human Rights
 - Promulgated in Rome in 1950 by the Council of Europe
@@ -110,8 +110,8 @@ maintaining the authority and impartiality of the judiciary.
 - Just like Article 8 above, this right is not absolute and can be limited under certain specific circumstances 
 
 #### Further Reading
-[Guide on Article 8 of the European Convention on Human Rights](https://www.echr.coe.int/documents/guide_art_8_eng.pdf)
-[European Convention on Human Rights](https://www.echr.coe.int/documents/convention_eng.pdf)
+- [Guide on Article 8 of the European Convention on Human Rights](https://www.echr.coe.int/documents/guide_art_8_eng.pdf)
+- [European Convention on Human Rights](https://www.echr.coe.int/documents/convention_eng.pdf)
 
 ## 1.3 Early laws and regulation
 - From the 1960s to the 1980s a number of European countries started adopting laws controlling the use of personal information
@@ -126,11 +126,10 @@ maintaining the authority and impartiality of the judiciary.
 - The OECD was formed in 1961 to fulfill a more global mission and to improve trade and cooperation with countries outside Europe and North America
 
 #### Further Reading
-[OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data (1980)](https://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm)
-[Privacy Expert Group Report on the Review of the 1980 OECD Privacy Guidelines (2013)](https://www.oecd-ilibrary.org/docserver/5k3xz5zmj2mx-en.pdf?expires=1665982626&id=id&accname=guest&checksum=E7AF43B76A3E7736AD4529335D5E10CE)
-[The OECD Privacy Framework Booklet (2013)](https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf)
-[Report on the Implementation of the Recommendation of the Council Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data (2021)](https://one.oecd.org/document/C\(2021\)42/en/pdf)
-[Report on the Implementation of the Recommendation of the Council Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data (2021)](https://one.oecd.org/document/C(2021)42/en/pdf)
+- [OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data (1980)](https://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm)
+- [Privacy Expert Group Report on the Review of the 1980 OECD Privacy Guidelines (2013)](https://www.oecd-ilibrary.org/docserver/5k3xz5zmj2mx-en.pdf?expires=1665982626&id=id&accname=guest&checksum=E7AF43B76A3E7736AD4529335D5E10CE)
+- [The OECD Privacy Framework Booklet (2013)](https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf)
+- [Report on the Implementation of the Recommendation of the Council Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data (2021)](https://one.oecd.org/document/C(2021)42/en/pdf)
 
 
 ## 1.4 The need for a harmonised European approach
