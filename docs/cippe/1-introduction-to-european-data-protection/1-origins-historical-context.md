@@ -86,6 +86,29 @@ country, for the prevention of disorder or crime, for the protection
 of health or morals, or for the protection of the rights and freedoms
 of others.
 
+- Pretty much the same as [Article 12](https://nikmeiser.github.io/cipp/cippe/1-introduction-to-european-data-protection/1-origins-historical-context.html#article-12) from the Universal Declaration of Human Rights
+- Unlike Article 12, however, it also some limits on these rights in the interests of public safety and the rights of others
+
+#### Article 10
+> 1. Everyone has the right to freedom of expression. This right
+shall include freedom to hold opinions and to receive and impart
+information and ideas without interference by public authority
+and regardless of frontiers. This Article shall not prevent States
+from requiring the licensing of broadcasting, television or cinema
+enterprises.
+> 2. The exercise of these freedoms, since it carries with it
+duties and responsibilities, may be subject to such formalities,
+conditions, restrictions or penalties as are prescribed by law and
+are necessary in a democratic society, in the interests of national
+security, territorial integrity or public safety, for the prevention
+of disorder or crime, for the protection of health or morals, for
+the protection of the reputation or rights of others, for preventing
+the disclosure of information received in confidence, or for
+maintaining the authority and impartiality of the judiciary.
+
+- Supports and expands upon [Article 19](https://nikmeiser.github.io/cipp/cippe/1-introduction-to-european-data-protection/1-origins-historical-context.html#article-19) of the Universal Declaration of Human Rights
+- Just like Article 8 above, this right is not absolute and can be limited under certain specific circumstances 
+
 
 ## 1.3 Early laws and regulation
 ## 1.4 The need for a harmonised European approach
