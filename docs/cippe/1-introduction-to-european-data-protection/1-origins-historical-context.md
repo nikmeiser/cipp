@@ -144,7 +144,7 @@ maintaining the authority and impartiality of the judiciary.
 - [Report on the Implementation of the Recommendation of the Council Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data (2021)](https://one.oecd.org/document/C(2021)42/en/pdf)
 - [OECD work on privacy](https://www.oecd.org/sti/ieconomy/privacy.htm)
 
-### Convention 108
+### 1.3.2 Convention 108
 - Also called the [Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data](https://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm)
 - First legally binding international treaty related to data protection
 - Adopted by Council of Europe on 28 January 1981
