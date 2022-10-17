@@ -128,6 +128,14 @@ maintaining the authority and impartiality of the judiciary.
 - The OECD was formed in 1961 to fulfill a more global mission and to improve trade and cooperation with countries outside Europe and North America
 
 #### The OECD and Privacy
+- Published the [OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data](https://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm) on 23 September 1980
+- Not legally binding
+- In close alignment with principles that were being developed by the Council of Europe
+- A lot of similarities between the OECD Guidelines and [Convention 108](http://conventions.coe.int/Treaty/en/Treaties/Html/108.htm), also know as Convention 108
+- Aim is the unimpeded flow of personal data across international borders
+- Applies to both the public and private sector
+- Applies to all personal data irrespective of whether it is gathered electronically or otherwise
+- Applies to automated and manual systems alike
 
 #### Further Reading
 -  [OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data (1980)](https://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm)
@@ -135,6 +143,13 @@ maintaining the authority and impartiality of the judiciary.
 - [The OECD Privacy Framework Booklet (2013)](https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf)
 - [Report on the Implementation of the Recommendation of the Council Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data (2021)](https://one.oecd.org/document/C(2021)42/en/pdf)
 - [OECD work on privacy](https://www.oecd.org/sti/ieconomy/privacy.htm)
+
+### Convention 108
+- Also called the [Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data](https://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm)
+- First legally binding international treaty related to data protection
+- Adopted by Council of Europe on 28 January 1981
+- Deliberately not called a 'European Convention' to signify that it allowed signatories from outside of Europe
+- Differs from the OECD Guidelines in that it requires the signatories to incorporate the principles as safeguards within domestic law to protect personal information
 
 ## 1.4 The need for a harmonised European approach
 ## 1.5 The Treaty of Lisbon
