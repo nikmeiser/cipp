@@ -12,3 +12,7 @@ has_children: true
 
 ![Clickable Euler diagram of European bodies (from Wikipedia)](https://upload.wikimedia.org/wikipedia/commons/6/6a/Supranational_European_Bodies.svg?sanitize=true)
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Supranational_European_Bodies.svg?sanitize=true">
+
+---
+![Clickable Euler diagram of European bodies (from Wikipedia)](https://upload.wikimedia.org/wikipedia/commons/6/6a/Supranational_European_Bodies.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Supranational_European_Bodies.svg">
