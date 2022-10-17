@@ -60,7 +60,7 @@ nav_order: 1
 	- Right to effective remedy
 	- Prohibition of discrimination
 * Enforced by the European Court of Human Rights
-### Article 8
+#### Article 8
 >> 1. Everyone has the right to respect for his private and family
 life, his home and his correspondence.
 >> 2. There shall be no interference by a public authority with the
