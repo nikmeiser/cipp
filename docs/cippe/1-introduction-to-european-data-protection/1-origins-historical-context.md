@@ -109,8 +109,30 @@ maintaining the authority and impartiality of the judiciary.
 - Supports and expands upon [Article 19](https://nikmeiser.github.io/cipp/cippe/1-introduction-to-european-data-protection/1-origins-historical-context.html#article-19) of the Universal Declaration of Human Rights
 - Just like Article 8 above, this right is not absolute and can be limited under certain specific circumstances 
 
+#### Further Reading
+[Guide on Article 8 of the European Convention on Human Rights](https://www.echr.coe.int/documents/guide_art_8_eng.pdf)
+[European Convention on Human Rights](https://www.echr.coe.int/documents/convention_eng.pdf)
 
 ## 1.3 Early laws and regulation
+- From the 1960s to the 1980s a number of European countries started adopting laws controlling the use of personal information
+- Emerging technologies were also threatening to undermine [Article 8](https://nikmeiser.github.io/cipp/cippe/1-introduction-to-european-data-protection/1-origins-historical-context.html#article-8) of the EHCR
+- In light of these trends the Council of Europe agreed to adopt [Recommendation 509](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-EN.asp?fileid=14546&lang=en) in January 1968
+- [Resolution 73/22](https://rm.coe.int/1680502830) was adopted on 23 September 1973 to protect personal information stored in data banks of private sector companies
+- [Resolution 74/29](https://rm.coe.int/16804d1c51#:~:text=Access%20to%20information%20that%20may,to%20carry%20out%20their%20duties.) was adopted on 20 September 1974 to protect personal information stored in teh data banks of the public sector
+
+### 1.3.1 OECD Guidelines
+- The OECD grew out of the Organisation for European Economic Co-operation (OEEC) which was formed to administer American and Canadian aid to Europe under the Marshall Plan
+- It provided the framework that would go on to establish the European Free Trade Area and the European Economic Committee
+- The OECD was formed in 1961 to fulfill a more global mission and to improve trade and cooperation with countries outside Europe and North America
+
+#### Further Reading
+[OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data (1980)](https://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm)
+[Privacy Expert Group Report on the Review of the 1980 OECD Privacy Guidelines (2013)](https://www.oecd-ilibrary.org/docserver/5k3xz5zmj2mx-en.pdf?expires=1665982626&id=id&accname=guest&checksum=E7AF43B76A3E7736AD4529335D5E10CE)
+[The OECD Privacy Framework Booklet (2013)](https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf)
+[Report on the Implementation of the Recommendation of the Council Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data (2021)](https://one.oecd.org/document/C\(2021\)42/en/pdf)
+[Report on the Implementation of the Recommendation of the Council Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data (2021)](https://one.oecd.org/document/C(2021)42/en/pdf)
+
+
 ## 1.4 The need for a harmonised European approach
 ## 1.5 The Treaty of Lisbon
 ## 1.6 A modernised framework
