@@ -126,10 +126,10 @@ maintaining the authority and impartiality of the judiciary.
 - The OECD was formed in 1961 to fulfill a more global mission and to improve trade and cooperation with countries outside Europe and North America
 
 #### Further Reading
-- [OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data (1980)](https://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm)
-- [Privacy Expert Group Report on the Review of the 1980 OECD Privacy Guidelines (2013)](https://www.oecd-ilibrary.org/docserver/5k3xz5zmj2mx-en.pdf?expires=1665982626&id=id&accname=guest&checksum=E7AF43B76A3E7736AD4529335D5E10CE)
-- [The OECD Privacy Framework Booklet (2013)](https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf)
-- [Report on the Implementation of the Recommendation of the Council Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data (2021)](https://one.oecd.org/document/C(2021)42/en/pdf)
+:information_source: [OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data (1980)](https://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm)
+:information_source: [Privacy Expert Group Report on the Review of the 1980 OECD Privacy Guidelines (2013)](https://www.oecd-ilibrary.org/docserver/5k3xz5zmj2mx-en.pdf?expires=1665982626&id=id&accname=guest&checksum=E7AF43B76A3E7736AD4529335D5E10CE)
+:information_source: [The OECD Privacy Framework Booklet (2013)](https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf)
+:information_source: [Report on the Implementation of the Recommendation of the Council Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data (2021)](https://one.oecd.org/document/C(2021)42/en/pdf)
 
 
 ## 1.4 The need for a harmonised European approach
