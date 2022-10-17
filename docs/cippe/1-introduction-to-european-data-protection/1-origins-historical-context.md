@@ -16,6 +16,9 @@ nav_order: 1
 {:toc}
 ---
 
+## Supranational European Bodies
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Supranational_European_Bodies.svg?sanitize=true">
+
 ## 1.1 Rationale for data protection
 - Increasing use of computers in the early 1970s
 - Transborder trade facilitated by the European Economic Community (EEC)
