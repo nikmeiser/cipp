@@ -17,7 +17,7 @@ nav_order: 1
 ---
 
 ## Supranational European Bodies
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Supranational_European_Bodies.svg?sanitize=true">
+[![Supranational European Bodies](https://upload.wikimedia.org/wikipedia/commons/6/6a/Supranational_European_Bodies.svg)](https://upload.wikimedia.org/wikipedia/commons/6/6a/Supranational_European_Bodies.svg "img:Supranational European Bodies")
 
 ## 1.1 Rationale for data protection
 - Increasing use of computers in the early 1970s
