@@ -121,9 +121,13 @@ maintaining the authority and impartiality of the judiciary.
 - [Resolution 74/29](https://rm.coe.int/16804d1c51#:~:text=Access%20to%20information%20that%20may,to%20carry%20out%20their%20duties.) was adopted on 20 September 1974 to protect personal information stored in teh data banks of the public sector
 
 ### 1.3.1 OECD Guidelines
+
+#### Origins of the OECD
 - The OECD grew out of the Organisation for European Economic Co-operation (OEEC) which was formed to administer American and Canadian aid to Europe under the Marshall Plan
 - It provided the framework that would go on to establish the European Free Trade Area and the European Economic Committee
 - The OECD was formed in 1961 to fulfill a more global mission and to improve trade and cooperation with countries outside Europe and North America
+
+#### The OECD and Privacy
 
 #### Further Reading
 -  [OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data (1980)](https://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm)
