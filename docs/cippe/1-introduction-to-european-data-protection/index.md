@@ -13,5 +13,6 @@ has_children: true
 {:toc}
 ---
 
+# Diagram of European bodies (from Wikipedia)
 ![Diagram of European bodies (from Wikipedia)](https://upload.wikimedia.org/wikipedia/commons/6/6a/Supranational_European_Bodies.svg?sanitize=true)
 <img src="https://en.wikipedia.org/wiki/Template:Supranational_European_Bodies">
