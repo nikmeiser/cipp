@@ -28,6 +28,7 @@ baseurl: "/cipp" # the subpath of your site, e.g. /blog
 url: "https://nikmeiser.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Google analytics and GDPR compliance
+google_analytics: G-VW33MQEN6M
 ga_tracking: G-VW33MQEN6M
 ga_tracking_anonymize_ip: true
 # twitter_username: jekyllrb
