@@ -183,7 +183,7 @@ maintaining the authority and impartiality of the judiciary.
 - There is additional sensitivity to trade protectionism since this is a binding international treaty, enforceable by law
 - This section emphasizes that the data protection laws should not be used to protect or regulate domestic markets or inhibit trade
 - The explantory memorandum further clarifies that this section does not limit the rights of any member countries to regulate its own trade economic conditions -
-	> Member countries to regulate transborder flows of personal data in areas relating to free trade, tariffs, employment, and related economic conditions for intentional data traffic. These are matters which were not addressed by the Expert Group, being outside its Mandate.
+	> ... is not intended to limit the rights of Member countries to regulate transborder flows of personal data in areas relating to free trade, tariffs, employment, and related economic conditions for intentional data traffic. These are matters which were not addressed by the Expert Group, being outside its Mandate.
 - The section provides for two derogation exceptions that allow for restricting the flow of data - 
 	1. Members can restrict the flow of data to and from countries that do not observe the provisions of the Convention
 	2. It allows member countries which have additional data protection requirements under their national law to restrict the flow of those data to any country that does not offer an equivalent protection for those data
