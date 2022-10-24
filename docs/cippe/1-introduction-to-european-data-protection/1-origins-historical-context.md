@@ -118,7 +118,7 @@ maintaining the authority and impartiality of the judiciary.
 - Emerging technologies were also threatening to undermine [Article 8](https://nikmeiser.github.io/cipp/cippe/1-introduction-to-european-data-protection/1-origins-historical-context.html#article-8) of the EHCR
 - In light of these trends the Council of Europe agreed to adopt [Recommendation 509](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-EN.asp?fileid=14546&lang=en) in January 1968
 - [Resolution 73/22](https://rm.coe.int/1680502830) was adopted on 23 September 1973 to protect personal information stored in data banks of private sector companies
-- [Resolution 74/29](https://rm.coe.int/16804d1c51#:~:text=Access%20to%20information%20that%20may,to%20carry%20out%20their%20duties.) was adopted on 20 September 1974 to protect personal information stored in teh data banks of the public sector
+- [Resolution 74/29](https://rm.coe.int/16804d1c51) was adopted on 20 September 1974 to protect personal information stored in teh data banks of the public sector
 
 ### 1.3.1 OECD Guidelines
 
@@ -139,9 +139,9 @@ maintaining the authority and impartiality of the judiciary.
 
 #### Further Reading
 -  [OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data (1980)](https://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm)
-- [Privacy Expert Group Report on the Review of the 1980 OECD Privacy Guidelines (2013)](https://www.oecd-ilibrary.org/docserver/5k3xz5zmj2mx-en.pdf?expires=1665982626&id=id&accname=guest&checksum=E7AF43B76A3E7736AD4529335D5E10CE)
+	- [Privacy Expert Group Report on the Review of the 1980 OECD Privacy Guidelines (2013 review)](https://www.oecd-ilibrary.org/docserver/5k3xz5zmj2mx-en.pdf?expires=1665982626&id=id&accname=guest&checksum=E7AF43B76A3E7736AD4529335D5E10CE)
+	- [Report on the Implementation of the Recommendation of the Council Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data (2021 review)](https://one.oecd.org/document/C(2021)42/en/pdf)
 - [The OECD Privacy Framework Booklet (2013)](https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf)
-- [Report on the Implementation of the Recommendation of the Council Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data (2021)](https://one.oecd.org/document/C(2021)42/en/pdf)
 - [OECD work on privacy](https://www.oecd.org/sti/ieconomy/privacy.htm)
 
 ### 1.3.2 Convention 108
@@ -149,7 +149,23 @@ maintaining the authority and impartiality of the judiciary.
 - First legally binding international treaty related to data protection
 - Adopted by Council of Europe on 28 January 1981
 - Deliberately not called a 'European Convention' to signify that it allowed signatories from outside of Europe
-- Differs from the OECD Guidelines in that it requires the signatories to incorporate the principles as safeguards within domestic law to protect personal information
+- Differs from the OECD Guidelines in that - 
+	- it requires the signatories to incorporate the principles as safeguards within domestic law to protect personal information
+	- holding or using personal information in digitized formats entails a corresponding social responsibility to protect the data from misuse
+- Has three main parts - 
+	- Chapter II: substantive law provisions
+	- Chapter III: special rules on transborder flows
+	- Chapter IV: mutual assistance
+
+#### 1.3.2.1 Chapter II: Basic Principles of National Application
+- Based on principles contained in the Council of Europe's [Resolution 73/22](https://rm.coe.int/1680502830) and [Resolution 74/29](https://rm.coe.int/16804d1c51)
+- Any personal information subject to automatic data process should - 
+	- be lawfully and fairly obtained (Collection Limitation Principle)
+	- be relevant to the purpose it was gathered for and should be accurate, complete and kept up-to-date (Data Quality Principle)
+	- specify the purpose for which it is being collected at the time of collection
+
+#### Further Reading
+- [Facilitating transborder data flows: Convention 108 and Convention 108+ (2020)](https://www.wto.org/english/res_e/reser_e/2_ssophie_trade_dialogues_wto.pdf)
 
 ## 1.4 The need for a harmonised European approach
 ## 1.5 The Treaty of Lisbon
