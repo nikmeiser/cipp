@@ -179,6 +179,23 @@ maintaining the authority and impartiality of the judiciary.
 	- ensure that the data processor or any third-party working on behalf of the data controller is accountable under the law (Accountability Principle)
 
 #### Chapter III: Basic Principles of International Application: Free Flow and Legitimate Restrictions
+- When European data protection legislation first emerged in the 1970s, some critics in the USA saw it as a protectionist measure to protect domestic markets from US suppliers of computer services
+- There is additional sensitivity to trade protectionism since this is a binding international treaty, enforceable by law
+- This section emphasizes that the data protection laws should not be used to protect or regulate domestic markets or inhibit trade
+- The explantory memorandum further clarifies that this section does not limit the rights of any member countries to regulate its own trade economic conditions -
+	> Member countries to regulate transborder flows of personal data in areas relating to free trade, tariffs, employment, and related economic conditions for intentional data traffic. These are matters which were not addressed by the Expert Group, being outside its Mandate.
+- The section provides for two derogation exceptions that allow for restricting the flow of data - 
+	1. Members can restrict the flow of data to and from countries that do not observe the provisions of the Convention
+	2. It allows member countries which have additional data protection requirements under their national law to restrict the flow of those data to any country that does not offer an equivalent protection for those data
+- This section establishes the principle of equivalency to facilitate the flow of data across international boundaries
+- An unresolved problem in this section is the choice of jurisdiction when there are conflicts between the laws of different countries
+- An '[Additional Protocol](https://rm.coe.int/1680080626)' was added on 8 November 2001
+	- It created a framework for data transfers to countries which were not signatories to Convention 108 if - 
+		- a) The data controller can demonstrate safeguards resulting from contractual clauses
+		- b) the supervising authority deems these safeguards as adequate in efficacy to domestic law
+	- Data transfer to non-members were allowed provided that - 
+		- a) It was in the interest of the individual
+		- b) It was in the public interest
 
 #### Chapter IV: National Implementation
 
@@ -187,6 +204,7 @@ maintaining the authority and impartiality of the judiciary.
 #### Further Reading
 - [Facilitating transborder data flows: Convention 108 and Convention 108+ (2020)](https://www.wto.org/english/res_e/reser_e/2_ssophie_trade_dialogues_wto.pdf)
 - [The Council of Europe Convention of the OECD Guidelines on Data Protection (1984)](https://core.ac.uk/download/pdf/232703677.pdf)
+- [Additional Protocol to the Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data regarding supervisory authorities and transborder data flows (2001)](https://rm.coe.int/1680080626)
 
 ## 1.4 The need for a harmonised European approach
 ## 1.5 The Treaty of Lisbon
