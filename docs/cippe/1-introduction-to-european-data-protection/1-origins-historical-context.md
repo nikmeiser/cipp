@@ -155,7 +155,7 @@ maintaining the authority and impartiality of the judiciary.
 - Has three main parts - 
 	- Chapter II: substantive law provisions
 	- Chapter III: special rules on transborder flows
-	- Chapter IV: mutual assistance
+	- Chapters IV and V: mutual assistance
 
 #### 1.3.2.1 Chapter II: Basic Principles of National Application
 - Based on principles contained in the Council of Europe's [Resolution 73/22](https://rm.coe.int/1680502830) and [Resolution 74/29](https://rm.coe.int/16804d1c51)
@@ -164,14 +164,29 @@ maintaining the authority and impartiality of the judiciary.
 	- be relevant to the purpose it was gathered for and should be accurate, complete and kept up-to-date (Data Quality Principle)
 	- specify the purpose for which it is being collected at the time of collection (Purpose Specification Principle)
 	- never be disclosed or made available for a purpose incompatible with the specified purpose, except where 
-		A.  the data subject (person) has given consent, or
-		B.  there is a justified legal reason to do so (Use Limitation Principle)
+		- a) the data subject (person) has given consent, or
+		- b) there is a justified legal reason to do so (Use Limitation Principle)
 	- be protected from unauthorized access, unauthorized use, unauthorized modification, unauthorized disclosure and from accidental loss (Security Safeguards Principle)
 	- offer transparency about the existence of personal data, the practices and policies that are used to govern it and the identity and location of the dat acontroller (Openness Principle)
 	- give the individual the right
+		- a) to confirm if a data controller has any data related to them
+		- b) to be notified of the data related to them 
+			- i) within a reasonable time
+			- ii) at a reasonable cost
+			- iii) in a form that is readily intelligible
+		- c) to be given a reason if a request made under a) or b) are denied, and to challenge that reason
+		- d) to challenge data relating to them and, if the challenge is successful, to have the data erased, rectified, completed or amended (Individual Participation Principle)
+	- ensure that the data processor or any third-party working on behalf of the data controller is accountable under the law (Accountability Principle)
 
+#### Chapter III: Basic Principles of International Application: Free Flow and Legitimate Restrictions
+
+#### Chapter IV: National Implementation
+
+#### Chapter V: International Cooperation
+ 
 #### Further Reading
 - [Facilitating transborder data flows: Convention 108 and Convention 108+ (2020)](https://www.wto.org/english/res_e/reser_e/2_ssophie_trade_dialogues_wto.pdf)
+- [The Council of Europe Convention of the OECD Guidelines on Data Protection (1984)](https://core.ac.uk/download/pdf/232703677.pdf)
 
 ## 1.4 The need for a harmonised European approach
 ## 1.5 The Treaty of Lisbon
