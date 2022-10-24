@@ -164,10 +164,11 @@ maintaining the authority and impartiality of the judiciary.
 	- be relevant to the purpose it was gathered for and should be accurate, complete and kept up-to-date (Data Quality Principle)
 	- specify the purpose for which it is being collected at the time of collection (Purpose Specification Principle)
 	- never be disclosed or made available for a purpose incompatible with the specified purpose, except where 
-		a. the data subject (person) has given consent, or
-		b. there is a justified legal reason to do so (Use Limitation Principle)
+		A.  the data subject (person) has given consent, or
+		B.  there is a justified legal reason to do so (Use Limitation Principle)
 	- be protected from unauthorized access, unauthorized use, unauthorized modification, unauthorized disclosure and from accidental loss (Security Safeguards Principle)
-	- 
+	- offer transparency about the existence of personal data, the practices and policies that are used to govern it and the identity and location of the dat acontroller (Openness Principle)
+	- give the individual the right
 
 #### Further Reading
 - [Facilitating transborder data flows: Convention 108 and Convention 108+ (2020)](https://www.wto.org/english/res_e/reser_e/2_ssophie_trade_dialogues_wto.pdf)
