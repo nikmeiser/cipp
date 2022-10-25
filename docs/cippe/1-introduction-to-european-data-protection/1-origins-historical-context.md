@@ -183,7 +183,7 @@ maintaining the authority and impartiality of the judiciary.
 - There is additional sensitivity to trade protectionism since this is a binding international treaty, enforceable by law
 - This section emphasizes that the data protection laws should not be used to protect or regulate domestic markets or inhibit trade
 - The explantory memorandum further clarifies that this section does not limit the rights of any member countries to regulate its own trade economic conditions -
-	> ... is not intended to limit the rights of Member countries to regulate transborder flows of personal data in areas relating to free trade, tariffs, employment, and related economic conditions for intentional data traffic. These are matters which were not addressed by the Expert Group, being outside its Mandate.
+	> Paragraph 18 is not intended to limit the rights of Member countries to regulate transborder flows of personal data in areas relating to free trade, tariffs, employment, and related economic conditions for intentional data traffic. These are matters which were not addressed by the Expert Group, being outside its Mandate.
 - The section provides for two derogation exceptions that allow for restricting the flow of data - 
 	1. Members can restrict the flow of data to and from countries that do not observe the provisions of the Convention
 	2. It allows member countries which have additional data protection requirements under their national law to restrict the flow of those data to any country that does not offer an equivalent protection for those data
@@ -198,16 +198,53 @@ maintaining the authority and impartiality of the judiciary.
 		- b) It was in the public interest
 
 #### Chapter IV: National Implementation
+- The member states have an obligation to make the provisions of the Convention part of their legal system
+- The '[Additional Protocol](https://rm.coe.int/1680080626)' added a requirement for each member country to set up a supervisory authority to ensure compliance with the Convention - 
+	- The supervisory authority has the power to investigate, to intervene and to engage in legal proceedings when domestic laws that give effect to the Convention are violated
+	- It hears claims from individuals regarding their fundamental rights and personal freedoms with regard to the processing of personal data
 
 #### Chapter V: International Cooperation
+- The supervisory authorities, in addition to providing domestic governance also form part of the machinery for cross-border cooperation
+- Supervisory authorities help in three main areas - 
+	1. They are the source of information about domestic regulations that implement the requirements of the COnvention. Regulations can be complex and specific to the legal system of the country
+	2. They assist entities from other member states meet the local procedural and compliance requirements
+	3. They assist data subjects who reside abroad
  
 #### Further Reading
 - [Facilitating transborder data flows: Convention 108 and Convention 108+ (2020)](https://www.wto.org/english/res_e/reser_e/2_ssophie_trade_dialogues_wto.pdf)
 - [The Council of Europe Convention of the OECD Guidelines on Data Protection (1984)](https://core.ac.uk/download/pdf/232703677.pdf)
 - [Additional Protocol to the Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data regarding supervisory authorities and transborder data flows (2001)](https://rm.coe.int/1680080626)
 
+### 1.3.3 Convention 108+
+- This section is redundant as Convention 108+ is dealt with in greater detail in section 1.7. I have left it here to be consistent with the IAPP text book
+
+
 ## 1.4 The need for a harmonised European approach
+
+### 1.4.1 Data Protection Directive
+
+### 1.4.2 Charter of Fundamental Rights
+
+
 ## 1.5 The Treaty of Lisbon
-## 1.6 A modernised framework
+
+## 1.6 The General Data Protection Regulation
+
+## 1.7 Convention 108+
+
+
+## 1.8 Related Legislation
+
+### 1.8.1 The Law Enforcement Data Protection Directive
+
+### 1.8.2 The ePrivacy Directive
+
+
+## 1.9 Brexit
+
+### 1.9.1 Application of the EU data protection law in the UK post-Brexit
+
+### 1.9.2 Adequaacy and post-Brexit data transfers between teh EU and the UK
+
 
 
