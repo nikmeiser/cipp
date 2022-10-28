@@ -235,10 +235,10 @@ maintaining the authority and impartiality of the judiciary.
 	- extended data protections to both automated and nonautomated personal data
 	- covered both public and and private sectors
 - The Directive gave the European Commission the power to issue infraction proceedings against a member state which did not implement the Directive correctly
-- Even the Directive wasn't successful in preventing the inconsistencies between national laws which was confirmed by the [First report on the implementation of the Data Protection Directive (95/46/EC)](http://aei.pitt.edu/45392/1/COM_(2003)_265_final.pdf) which was published on 15 May 2003. It cited - 
+- Even the Directive wasn't successful in preventing the inconsistencies between national laws which was confirmed by the [First report on the implementation of the Data Protection Directive (95/46/EC)](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52003DC0265&from=EN) which was published on 15 May 2003. It cited - 
 	- Incorrect implementation of the Directive
 	- Incorrect derogation requests 
-	- Inconsistencies in implementation within the margins of manoeuvre
+	- Inconsistencies in implementation even within the margins of manoeuvre (e.g. the requirements for notifying local Data Protection Authorities)
 
 ### 1.4.2 Charter of Fundamental Rights
 
