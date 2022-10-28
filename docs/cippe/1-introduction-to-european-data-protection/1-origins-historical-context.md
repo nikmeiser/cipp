@@ -206,8 +206,8 @@ maintaining the authority and impartiality of the judiciary.
 #### Chapter V: International Cooperation
 - The supervisory authorities, in addition to providing domestic governance also form part of the machinery for cross-border cooperation
 - Supervisory authorities help in three main areas - 
-	1. They are the source of information about domestic regulations that implement the requirements of the COnvention. Regulations can be complex and specific to the legal system of the country
-	2. They assist entities from other member states meet the local procedural and compliance requirements
+	1. They are the source of information about domestic framework of rules, regulations and decisions that implement Convention requirememts. There are often several levels of regulation and many rules cannot be laid down permanently in detailed statutory provisions to give lower level decision-making bodies some discretion
+	2. They assist entities from other member states with interpretation and in meeting the local regulatory requirements
 	3. They assist data subjects who reside abroad
  
 #### Further Reading
@@ -216,12 +216,29 @@ maintaining the authority and impartiality of the judiciary.
 - [Additional Protocol to the Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data regarding supervisory authorities and transborder data flows (2001)](https://rm.coe.int/1680080626)
 
 ### 1.3.3 Convention 108+
-- This section is redundant as Convention 108+ is dealt with in greater detail in section 1.7. I have left it here to be consistent with the IAPP text book
+- This section is redundant as Convention 108+ is dealt with in greater detail in section 1.7. I have left it here to be consistent with the IAPP text book. I'm guessing they left in there for continuity.
 
 
 ## 1.4 The need for a harmonised European approach
+- The intent of Convention 108 and the OECD Guidelines was to create a coordinated approach to data protection while leaving the implemementation to the member countries
+- Over time it became apparent that in practice local implementations had created divergent data protection regimes, which had troublesome ramifications for both individual privacy and free trade
 
 ### 1.4.1 Data Protection Directive
+- A "directive" is a legislative act that sets out a goal that all EU countries must achieve. However, it is up to the individual countries to devise their own laws on how to reach these goals. 
+- Before creating the directive, the European Commission prepared a [Proposal for a Council Directive concerning the protection of individuals in relation to the processing of personal data](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:51990PC0314(01)&from=EN) on 27 July 1990 in which they - 
+	- noted the diversity of national approaches
+	- identified a lack of safeguards for data privacy at the community level
+	- concluded that these would lead to cross-border flows of data being impeded
+- The proposal led to the creation of [Directive 95/46/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:31995L0046&from=EN) on 24 October 1995 which attempted to -
+	- build upon Convention 108
+	- bring greater alignment between national laws on data privacy
+	- extended data protections to both automated and nonautomated personal data
+	- covered both public and and private sectors
+- The Directive gave the European Commission the power to issue infraction proceedings against a member state which did not implement the Directive correctly
+- Even the Directive wasn't successful in preventing the inconsistencies between national laws which was confirmed by the [First report on the implementation of the Data Protection Directive (95/46/EC)](http://aei.pitt.edu/45392/1/COM_(2003)_265_final.pdf) which was published on 15 May 2003. It cited - 
+	- Incorrect implementation of the Directive
+	- Incorrect derogation requests 
+	- Inconsistencies in implementation within the margins of manoeuvre
 
 ### 1.4.2 Charter of Fundamental Rights
 
