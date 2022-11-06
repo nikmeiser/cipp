@@ -263,5 +263,5 @@ maintaining the authority and impartiality of the judiciary.
 
 ### 1.9.2 Adequacy and post-Brexit data transfers between teh EU and the UK
 
-
+## Timeline for European Privacy
 ![Timeline for European Privacy](/cipp/img/timeline.png)
