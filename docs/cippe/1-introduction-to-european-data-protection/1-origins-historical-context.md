@@ -54,10 +54,10 @@ Note: Clicking on this image will take you to Wikipedia, where you are subject t
 
 ### 1.2.2 European Convention on Human Rights
 - Promulgated in Rome in 1950 by the Council of Europe
+- Went into effect on 3 September 1953
 - Invited individual states to be signatories
 - Only applies to member states
 	- All Council of Europe states are members
-- Went into effect on 3 September 1953
 - Core protections
 	- Right to life
 	- Prohibition of torture
@@ -233,8 +233,8 @@ maintaining the authority and impartiality of the judiciary.
 
 #### Enactment
 - The proposal led to the creation of [Directive 95/46/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:31995L0046&from=EN), also known as the 'Data Protection Directive'
-- The Directive was enacted on 24 October 1995 and came into effect starting 13 December 1995
-- It was required to be implemented by all the members by 24 October 1998
+- The Directive was enacted on 24 October 1995 and came into effect on 13 December 1995
+- Members were given until 24 October 1998 to transpose it into national law or risk being penalized by the Commission
 - It was intended to -
 	- build upon Convention 108
 	- bring greater alignment between national laws on data privacy
