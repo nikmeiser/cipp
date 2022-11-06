@@ -224,16 +224,22 @@ maintaining the authority and impartiality of the judiciary.
 - Over time it became apparent that in practice local implementations had created divergent data protection regimes, which had troublesome ramifications for both individual privacy and free trade
 
 ### 1.4.1 Data Protection Directive
+#### Background 
 - A "directive" is a legislative act that sets out a goal that all EU countries must achieve. However, it is up to the individual countries to devise their own laws on how to reach these goals. 
 - Before creating the directive, the European Commission prepared a [Proposal for a Council Directive concerning the protection of individuals in relation to the processing of personal data](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:51990PC0314(01)&from=EN) on 27 July 1990 in which they - 
 	- noted the diversity of national approaches
 	- identified a lack of safeguards for data privacy at the community level
 	- concluded that these would lead to cross-border flows of data being impeded
-- The proposal led to the creation of [Directive 95/46/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:31995L0046&from=EN) on 24 October 1995 which attempted to -
+
+#### Enactment
+- The proposal led to the creation of [Directive 95/46/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:31995L0046&from=EN), also known as the 'Data Protection Directive'
+- The Directive was enacted on 24 October 1995 and came into effect starting 13 December 1995
+- It was required to be implemented by all the members by 24 October 1998
+- It was intended to -
 	- build upon Convention 108
 	- bring greater alignment between national laws on data privacy
-	- extended data protections to both automated and nonautomated personal data
-	- covered both public and and private sectors
+	- extend data protections to both automated and nonautomated personal data
+	- cover both, the public and and the private sectors
 - The Directive gave the European Commission the power to issue infraction proceedings against a member state which did not implement the Directive correctly
 - Even the Directive wasn't successful in preventing the inconsistencies between national laws which was confirmed by the [First report on the implementation of the Data Protection Directive (95/46/EC)](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52003DC0265&from=EN) which was published on 15 May 2003. It cited - 
 	- Incorrect implementation of the Directive
