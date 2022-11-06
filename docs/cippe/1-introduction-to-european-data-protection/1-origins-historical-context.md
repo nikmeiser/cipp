@@ -261,7 +261,7 @@ maintaining the authority and impartiality of the judiciary.
 
 ### 1.9.1 Application of the EU data protection law in the UK post-Brexit
 
-### 1.9.2 Adequaacy and post-Brexit data transfers between teh EU and the UK
+### 1.9.2 Adequacy and post-Brexit data transfers between teh EU and the UK
 
 
-
+![Timeline for European Privacy](/cipp/img/timeline.png)
