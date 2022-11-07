@@ -26,38 +26,33 @@ Note: Clicking on this image will take you to Wikipedia, where you are subject t
 
 ## 1.2 Human rights law
 ### 1.2.1 Universal Declaration of Human Rights
-- Adopted on 10 December, 1948
+#### Background
+- The [United Nations](https://en.wikipedia.org/wiki/Declaration_by_United_Nations) was a treaty signed by the Allies who fought on the same side during World War II
+- When the atrocities of World War II were revealed, the signatories felt a clearer elucidation of human rights was needed
+#### Enactment
+- The [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) was adopted on 10 December, 1948
+- [Article 12](https://www.un.org/en/about-us/universal-declaration-of-human-rights#:~:text=Article%2012,interference%20or%20attacks.)
+	- Protection from arbitrary interference with privacy, family, home, correspondence
+	- Protection from attacks on honour and reputation
+- [Article 19](https://www.un.org/en/about-us/universal-declaration-of-human-rights#:~:text=Article%2019,regardless%20of%20frontiers.)
+	- Right to freedom of opinion and expression without interference
+	- Right to seek, impart, receive ideas through any media and regardless of frontiers
 
-#### Article 12
-> No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.
-
-- Protection from arbitrary interference with privacy, family, home, correspondence
-- Protection from attacks on honour and reputation
-
-#### Article 19
-> Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.
-
-- Right to freedom of opinion and expression without interference
-- Right to seek, impart, receive ideas through any media and regardless of frontiers
-
-#### Article 29 
-> 1. Everyone has duties to the community in which alone the free and full development of his personality is possible.
-> 2. In the exercise of his rights and freedoms, everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and freedoms of others and of meeting the just requirements of morality, public order and the general welfare in a democratic society.
-> These rights and freedoms may in no case be exercised contrary to the purposes and principles of the United Nations.
-
-- Resolves apparent contradiction between Art. 12 and Art. 19 by applying limits to individual rights and freedoms
-- Out of recognition and respect for the rights of others
-- To meet the just requirements for morality, public order and general welfare in a democratic society  
-
-#### Further Reading
-- [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
+- [Article 29](https://www.un.org/en/about-us/universal-declaration-of-human-rights#:~:text=Article%2029,the%20United%20Nations.) 
+	- Resolves apparent contradiction between Art. 12 and Art. 19 by applying limits to individual rights and freedoms
+	- Out of recognition and respect for the rights of others
+	- To meet the just requirements for morality, public order and general welfare in a democratic society  
 
 ### 1.2.2 European Convention on Human Rights
-- Promulgated in Rome in 1950 by the Council of Europe
+#### Background
+- Intended to protect the member states of the [Council of Europe](https://en.wikipedia.org/wiki/Council_of_Europe) from the threat of Communist subversion
+- Multiple references to values and principles that are necessary in a democratic society even though these principles are never defined
+- There was a desire, amongst members, for an enforcement mechanism
+ 
+#### Enactment
+- The [European Convention on Human Rights](https://www.echr.coe.int/documents/convention_eng.pdf) was promulgated in Rome in 1950 by the Council of Europe
 - Went into effect on 3 September 1953
-- Invited individual states to be signatories
-- Only applies to member states
-	- All Council of Europe states are members
+- Only applies to member states of the Council of Europe
 - Core protections
 	- Right to life
 	- Prohibition of torture
@@ -75,39 +70,13 @@ Note: Clicking on this image will take you to Wikipedia, where you are subject t
 - Enforced by the European Court of Human Rights
 	- Rulings of the ECHR are binding on the signitaries
 
-#### Article 8
-> 1. Everyone has the right to respect for his private and family
-life, his home and his correspondence.
-> 2. There shall be no interference by a public authority with the
-exercise of this right except such as is in accordance with the
-law and is necessary in a democratic society in the interests of
-national security, public safety or the economic well-being of the
-country, for the prevention of disorder or crime, for the protection
-of health or morals, or for the protection of the rights and freedoms
-of others.
+- [Article 8](https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights#Article_8_%E2%80%93_privacy)
+	- Pretty much the same as [Article 12](https://nikmeiser.github.io/cipp/cippe/1-introduction-to-european-data-protection/1-origins-historical-context.html#article-12) from the Universal Declaration of Human Rights
+	- Unlike Article 12, however, it also some limits on these rights in the interests of public safety and the rights of others
 
-- Pretty much the same as [Article 12](https://nikmeiser.github.io/cipp/cippe/1-introduction-to-european-data-protection/1-origins-historical-context.html#article-12) from the Universal Declaration of Human Rights
-- Unlike Article 12, however, it also some limits on these rights in the interests of public safety and the rights of others
-
-#### Article 10
-> 1. Everyone has the right to freedom of expression. This right
-shall include freedom to hold opinions and to receive and impart
-information and ideas without interference by public authority
-and regardless of frontiers. This Article shall not prevent States
-from requiring the licensing of broadcasting, television or cinema
-enterprises.
-> 2. The exercise of these freedoms, since it carries with it
-duties and responsibilities, may be subject to such formalities,
-conditions, restrictions or penalties as are prescribed by law and
-are necessary in a democratic society, in the interests of national
-security, territorial integrity or public safety, for the prevention
-of disorder or crime, for the protection of health or morals, for
-the protection of the reputation or rights of others, for preventing
-the disclosure of information received in confidence, or for
-maintaining the authority and impartiality of the judiciary.
-
-- Supports and expands upon [Article 19](https://nikmeiser.github.io/cipp/cippe/1-introduction-to-european-data-protection/1-origins-historical-context.html#article-19) of the Universal Declaration of Human Rights
-- Just like Article 8 above, this right is not absolute and can be limited under certain specific circumstances 
+- [Article 10](https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights#Article_10_%E2%80%93_expression)
+	- Supports and expands upon [Article 19](https://nikmeiser.github.io/cipp/cippe/1-introduction-to-european-data-protection/1-origins-historical-context.html#article-19) of the Universal Declaration of Human Rights
+	- Just like Article 8 above, this right is not absolute and can be limited under certain specific circumstances 
 
 #### Further Reading
 - [Guide on Article 8 of the European Convention on Human Rights](https://www.echr.coe.int/documents/guide_art_8_eng.pdf)
@@ -122,17 +91,19 @@ maintaining the authority and impartiality of the judiciary.
 
 ### 1.3.1 OECD Guidelines
 
-#### Origins of the OECD
+#### Background
 - The OECD grew out of the Organisation for European Economic Co-operation (OEEC) which was formed to administer American and Canadian aid to Europe under the Marshall Plan
 - It provided the framework that would go on to establish the European Free Trade Area and the European Economic Committee
 - The OECD was formed in 1961 to fulfill a more global mission and to improve trade and cooperation with countries outside Europe and North America
 
-#### The OECD and Privacy
-- Published the [OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data](https://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm) on 23 September 1980
+#### Enactment
+- The [OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data](https://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm) were published on 23 September 1980
 - Not legally binding
 - In close alignment with principles that were being developed by the Council of Europe
-- A lot of similarities between the OECD Guidelines and [Convention 108](http://conventions.coe.int/Treaty/en/Treaties/Html/108.htm), also know as Convention 108
-- Aim is the unimpeded flow of personal data across international borders
+- A lot of similarities between the OECD Guidelines and [Convention 108](http://conventions.coe.int/Treaty/en/Treaties/Html/108.htm)
+- Two main [aims](https://ccdcoe.org/incyder-articles/the-oecd-issues-revised-privacy-guidelines/) - 
+	- to reflect privacy standards, and
+	- to facilitate the free flow of information for law enforcement activities
 - Applies to both the public and private sector
 - Applies to all personal data irrespective of whether it is gathered electronically or otherwise
 - Applies to automated and manual systems alike
@@ -145,6 +116,11 @@ maintaining the authority and impartiality of the judiciary.
 - [OECD work on privacy](https://www.oecd.org/sti/ieconomy/privacy.htm)
 
 ### 1.3.2 Convention 108
+#### Background
+- In response to the rapid progress made in the field of electronic data processing by public administrations and large enterprises
+- The Council of Europe decided to establish a framework of specific principles and norms to prevent unfair collection and processing of personal data
+
+#### Enactment
 - Also called the [Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data](https://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm)
 - First legally binding international treaty related to data protection
 - Adopted by Council of Europe on 28 January 1981
@@ -178,7 +154,7 @@ maintaining the authority and impartiality of the judiciary.
 		- d) to challenge data relating to them and, if the challenge is successful, to have the data erased, rectified, completed or amended (Individual Participation Principle)
 	- ensure that the data processor or any third-party working on behalf of the data controller is accountable under the law (Accountability Principle)
 
-#### Chapter III: Basic Principles of International Application: Free Flow and Legitimate Restrictions
+#### 1.3.2.2 Chapter III: Basic Principles of International Application: Free Flow and Legitimate Restrictions
 - When European data protection legislation first emerged in the 1970s, some critics in the USA saw it as a protectionist measure to protect domestic markets from US suppliers of computer services
 - There is additional sensitivity to trade protectionism since this is a binding international treaty, enforceable by law
 - This section emphasizes that the data protection laws should not be used to protect or regulate domestic markets or inhibit trade
@@ -197,13 +173,13 @@ maintaining the authority and impartiality of the judiciary.
 		- a) It was in the interest of the individual
 		- b) It was in the public interest
 
-#### Chapter IV: National Implementation
+#### 1.3.2.3 Chapter IV: National Implementation
 - The member states have an obligation to make the provisions of the Convention part of their legal system
 - The '[Additional Protocol](https://rm.coe.int/1680080626)' added a requirement for each member country to set up a supervisory authority to ensure compliance with the Convention - 
 	- The supervisory authority has the power to investigate, to intervene and to engage in legal proceedings when domestic laws that give effect to the Convention are violated
 	- It hears claims from individuals regarding their fundamental rights and personal freedoms with regard to the processing of personal data
 
-#### Chapter V: International Cooperation
+#### 1.3.2.4 Chapter V: International Cooperation
 - The supervisory authorities, in addition to providing domestic governance also form part of the machinery for cross-border cooperation
 - Supervisory authorities help in three main areas - 
 	1. They are the source of information about domestic framework of rules, regulations and decisions that implement Convention requirememts. There are often several levels of regulation and many rules cannot be laid down permanently in detailed statutory provisions to give lower level decision-making bodies some discretion
@@ -214,6 +190,7 @@ maintaining the authority and impartiality of the judiciary.
 - [Facilitating transborder data flows: Convention 108 and Convention 108+ (2020)](https://www.wto.org/english/res_e/reser_e/2_ssophie_trade_dialogues_wto.pdf)
 - [The Council of Europe Convention of the OECD Guidelines on Data Protection (1984)](https://core.ac.uk/download/pdf/232703677.pdf)
 - [Additional Protocol to the Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data regarding supervisory authorities and transborder data flows (2001)](https://rm.coe.int/1680080626)
+- [Convention 108 Background](https://www.coe.int/en/web/data-protection/convention108/background)
 
 ### 1.3.3 Convention 108+
 - This section is redundant as Convention 108+ is dealt with in greater detail in section 1.7. I have left it here to be consistent with the IAPP text book. I'm guessing they left in there for continuity.
@@ -267,7 +244,7 @@ maintaining the authority and impartiality of the judiciary.
 
 ### 1.9.1 Application of the EU data protection law in the UK post-Brexit
 
-### 1.9.2 Adequacy and post-Brexit data transfers between teh EU and the UK
+### 1.9.2 Adequacy and post-Brexit data transfers between the EU and the UK
 
 ## Timeline for European Privacy
 ![Timeline for European Privacy](/cipp/img/timeline.png)
